@@ -2,6 +2,7 @@
 using namespace std;
  int main(){
      //calculator 
+// task 2 
      cout<<"Enter your numbers"<<endl;
      
      int a;
