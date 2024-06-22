@@ -15,7 +15,6 @@ int main() {
     cout << "A random number is generated between 1 and 100." << endl;
     cout << "Can you guess what it is?" << endl;
 
-    // Loop until the user guesses correctly
     while (guess != random) {
         cout << "Enter your guess: ";
         cin >> guess;
